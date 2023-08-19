@@ -1,0 +1,11 @@
+.img{
+    box-shadow: 12px 12px 2px 1px #6F61C0;
+    border-radius: 10px;
+}
+.text-color{
+    color: #6F61C0;
+}
+code{
+    color: #614BC3;
+    text-decoration: underline;
+}
